@@ -20,11 +20,21 @@ h1{
     width: 100%;
    }
 
-.top-banner{  
+/* .top-banner{  
     background-image: url("images/top-banner.png");
-    background repeat: no-repeat;
-}
+    background-repeat:"no-repeat";
+} */
 
 section{
    height:500px; 
+}
+
+.link-button{
+    background-color:rgb(29, 206, 206);
+    
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+   
+  
 }
