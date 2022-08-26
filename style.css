@@ -64,3 +64,8 @@ section{
     border-image: linear-gradient(180deg, blue, purple);
     border-image-slice: 1;
 }
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
